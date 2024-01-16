@@ -4,7 +4,7 @@ Hi 👋 My name is Chattakhup kinaubon
 Web Developer
 -------------
 
-l've been learning to code for 4 months, I want to work as a full stack developer, I started with HTML and CSS, And I'm looking for work experience starting from front-end.
+l've been learning to code for 5 months, I want to work as a full stack developer, I started with HTML and CSS, And I'm looking for work experience starting from front-end.
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [MosT5140@hotmail.com](mailto:MosT5140@hotmail.com)
