@@ -4,7 +4,14 @@ Hi 👋 My name is Chattakhup kinaubon
 Web Developer
 -------------
 
-l've been learning to code for 5 months, I want to work as a full stack developer, I started with HTML and CSS, And I'm looking for work experience starting from front-end.
+Hello,
+<p align="left">
+ &nbsp;&nbsp;&nbsp;I’m a passionate learner and aspiring Full Stack Developer with a focus on web development. I began my journey by mastering the fundamentals of HTML and CSS, gaining a solid understanding of web design and user experience principles.
+Currently, I’m actively expanding my skill set in Front-End Development, with a particular interest in modern technologies like JavaScript, React, and other frameworks.<br /> 
+  <br /> 
+  &nbsp;&nbsp;&nbsp;I strive to create websites that are both visually appealing and high-performing.
+In addition to self-paced learning through online courses and personal projects, I’m eager to gain hands-on experience and contribute to real-world projects. I’m always looking for opportunities to apply my skills and grow as a developer.
+</p>
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [MosT5140@hotmail.com](mailto:MosT5140@hotmail.com)
