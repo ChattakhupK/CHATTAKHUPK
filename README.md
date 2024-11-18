@@ -77,35 +77,35 @@
 
 <br clear="both">
 
-<img align="left" height="150" src="https://media.tenor.com/ZV_HU24jHj0AAAAM/treyreloaded-dog.gif"  />
+<img align="left" width="145" height="150" src="https://media.tenor.com/ZV_HU24jHj0AAAAM/treyreloaded-dog.gif"  />
 
 ###
 
-<p align="left">🌍  I'm based in Bangkok, Thailand<br>✉️  You can contact me at MosT5140@hotmail.com<br>🧠  I'm learning Backend and TypeScript<br>🤝  I'm open to collaborating on Web Developer</p>
+<p align="left">&nbsp;🌍  I'm based in Bangkok, Thailand<br>&nbsp;✉️  You can contact me at MosT5140@hotmail.com<br>&nbsp;🧠  I'm learning Backend and TypeScript<br>&nbsp;🤝  I'm open to collaborating on Web Developer</p>
 
 ###
 
 <br clear="both">
 
 <div align="center">
-  <a href="mailto:MosT5140@hotmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="47" height="35" alt="microsoft-outlook logo"  />
-  </a>
-  <a href="mailto:MosT5140@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/chattakhup-kinaubon-672882274" target="_blank">
+  <button href="mailto:MosT5140@hotmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="47" height="35"  />
+  </button>
+  <button href="mailto:MosT5140@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35"  />
+  </button>
+  <button href="https://www.linkedin.com/in/chattakhup-kinaubon-672882274" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://discordapp.com/users/240118062827831297" target="_blank">
+  </button>
+  <button href="https://discordapp.com/users/240118062827831297" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://www.instagram.com/t.anxai/" target="_blank">
+  </button>
+  <button href="https://www.instagram.com/t.anxai/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.facebook.com/MosT5140/" target="_blank">
+  </button>
+  <button href="https://www.facebook.com/MosT5140/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="47" height="35" alt="facebook logo"  />
-  </a>
+  </button>
 </div>
 
 ###
